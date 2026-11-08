@@ -1,0 +1,29 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "component": "gemcolony:bubbled",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "legaciesunited:item/pyrite_gem"
+    },
+    "on_true": {
+      "type": "minecraft:composite",
+      "models": [
+        {
+          "type": "minecraft:model",
+          "model": "legaciesunited:item/pyrite_gem"
+        },
+        {
+          "type": "minecraft:model",
+          "model": "legaciesunited:item/pyrite_gem_bubble",
+          "tints": [
+            {
+              "type": "gemcolony:bubble_color"
+            }
+          ]
+        }
+      ]
+    },
+    "property": "minecraft:has_component"
+  }
+}

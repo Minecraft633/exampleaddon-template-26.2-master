@@ -1,0 +1,17 @@
+{
+  "itemGroup.legaciesunited": "Legacies United",
+  "block.legaciesunited.example_block": "Example Block",
+
+  "item.legaciesunited.pyrite_gem": "Pyrite Gem",
+  "entity.legaciesunited.pyrite": "Pyrite",
+
+  "legaciesunited.configuration.title": "ExampleAddon Configs",
+  "legaciesunited.configuration.section.legaciesunited.common.toml": "ExampleAddon Configs",
+  "legaciesunited.configuration.section.legaciesunited.common.toml.title": "ExampleAddon Configs",
+  "legaciesunited.configuration.items": "Item List",
+  "legaciesunited.configuration.logDirtBlock": "Log Dirt Block",
+  "legaciesunited.configuration.magicNumberIntroduction": "Magic Number Text",
+  "legaciesunited.configuration.magicNumber": "Magic Number",
+
+  "creativetab.legaciesunited.legacies_united_tab": "Legacies United Gems"
+}
